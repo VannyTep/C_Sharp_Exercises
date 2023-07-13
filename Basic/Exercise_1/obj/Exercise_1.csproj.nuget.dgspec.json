@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tepch\\Desktop\\C#\\Vanny_C#_Exercises\\Exercise_1\\Exercise_1.csproj": {}
+    "E:\\Github\\C_Sharp_Exercises\\Basic\\Exercise_1\\Exercise_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tepch\\Desktop\\C#\\Vanny_C#_Exercises\\Exercise_1\\Exercise_1.csproj": {
+    "E:\\Github\\C_Sharp_Exercises\\Basic\\Exercise_1\\Exercise_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tepch\\Desktop\\C#\\Vanny_C#_Exercises\\Exercise_1\\Exercise_1.csproj",
+        "projectUniqueName": "E:\\Github\\C_Sharp_Exercises\\Basic\\Exercise_1\\Exercise_1.csproj",
         "projectName": "Exercise_1",
-        "projectPath": "C:\\Users\\tepch\\Desktop\\C#\\Vanny_C#_Exercises\\Exercise_1\\Exercise_1.csproj",
-        "packagesPath": "C:\\Users\\tepch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tepch\\Desktop\\C#\\Vanny_C#_Exercises\\Exercise_1\\obj\\",
+        "projectPath": "E:\\Github\\C_Sharp_Exercises\\Basic\\Exercise_1\\Exercise_1.csproj",
+        "packagesPath": "C:\\Users\\tepva\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\C_Sharp_Exercises\\Basic\\Exercise_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tepch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tepva\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

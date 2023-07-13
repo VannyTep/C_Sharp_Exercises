@@ -1,0 +1,15 @@
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\bin\Debug\net7.0\Exercise_1.exe
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\bin\Debug\net7.0\Exercise_1.deps.json
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\bin\Debug\net7.0\Exercise_1.runtimeconfig.json
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\bin\Debug\net7.0\Exercise_1.dll
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\bin\Debug\net7.0\Exercise_1.pdb
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\Exercise_1.csproj.AssemblyReference.cache
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\Exercise_1.AssemblyInfoInputs.cache
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\Exercise_1.AssemblyInfo.cs
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\Exercise_1.csproj.CoreCompileInputs.cache
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\Exercise_1.dll
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\refint\Exercise_1.dll
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\Exercise_1.pdb
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\Exercise_1.genruntimeconfig.cache
+E:\Github\C_Sharp_Exercises\Basic\Exercise_1\obj\Debug\net7.0\ref\Exercise_1.dll
